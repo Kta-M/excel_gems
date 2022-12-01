@@ -1,0 +1,5 @@
+output/*/*.xls
+output/*/*.xlsx
+input/~$*.xlsx
+
+vendor/**
